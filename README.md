@@ -1,6 +1,6 @@
 FACEBOOK_CLONE
 
-A simple Facebook clone built with [technologies/frameworks used]. Features user authentication, profile management, and basic social interactions.
+A basic Facebook clone using HTML, CSS, and JavaScript. Includes user profiles, news feed, and interactive elements with a responsive design. Perfect for showcasing web development skills.
 
 LINK: https://amilmether.github.io/FACEBOOK_CLONE/
 
